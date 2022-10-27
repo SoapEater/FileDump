@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\bin\Debug\ThreadsBaraquil.exe.config
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\bin\Debug\ThreadsBaraquil.exe
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\bin\Debug\ThreadsBaraquil.pdb
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\obj\Debug\ThreadsBaraquil.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\obj\Debug\ThreadsBaraquil.FrmBasicThread.resources
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\obj\Debug\ThreadsBaraquil.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\obj\Debug\ThreadsBaraquil.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\obj\Debug\ThreadsBaraquil.exe
+C:\Users\ComputerLab4PC1\source\repos\ThreadsBaraquil\obj\Debug\ThreadsBaraquil.pdb
